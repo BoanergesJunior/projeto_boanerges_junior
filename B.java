@@ -16,8 +16,12 @@ public class B {
 		System.out.print("MB1");
 	}
 	
-	public void MA2() {
+	public void MB2() {
 		System.out.print("MB2");
+	}
+	
+	public void MB3() {
+		System.out.print("MB3");
 	}
 	
 }
